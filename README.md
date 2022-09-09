@@ -1,2 +1,2 @@
 # Project
-This project is developed under the spark foundattion internship.
+This project is developed under the spark foundation internship.
